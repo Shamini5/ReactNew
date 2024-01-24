@@ -1,0 +1,13 @@
+.App{
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  width: 50%;
+  height: 50vh;
+  border-radius: 10px;
+  background-color: bisque;
+}
+
+.App-header{
+  padding-top: 30px;
+}
