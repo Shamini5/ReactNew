@@ -23,6 +23,7 @@ function App() {
     <div className="App">
       <header className="App-header">Demo Counter</header>
       <h1>Counter value: {counter}</h1>
+      <p>iefjwkmdw idmowemdpqw wdm wodmwqld qwodmqokp2 efjwmf</p>
       <button
       onClick={addValue}
       >Add Value</button>
@@ -39,3 +40,5 @@ function App() {
 }
 
 export default App;
+
+// new line
